@@ -1,4 +1,5 @@
 # Hikaye Atölyesi
+Önerdiğimiz Pardus uygulaması, öğrencilerin hayal güçlerini kullanarak resimler ve metinler oluşturabilecekleri interaktif bir platform sunmaktadır. Bu sayede, öğrenciler aynı ekran üzerinde kendi hikayelerini yaratırken yaratıcı düşünme becerilerini de geliştirme fırsatı bulacaklardır. Uygulama, ilkokul seviyesindeki çocukların kolayca kullanabileceği bir ara yüze sahip olup, akıllı tahtalarla uyumlu şekilde çalışacaktır. Sonuç olarak, Pardus ortamında, eğitimde yenilikçi ve etkili bir araç sunarak öğretim süreçlerini daha eğlenceli ve etkileşimli hale getirecektir.
 
 Hikaye Atölyesi, çizim yapabileceğiniz ve yazı yazabileceğiniz interaktif bir masaüstü uygulamasıdır. Kullanıcılar birden fazla sayfa oluşturabilir, her sayfaya özel çizimler ve metinler ekleyebilir ve bu sayfaları `.png` olarak kaydedebilir. Ek olarak, tüm sayfalardan otomatik bir video slayt gösterisi (MP4) de oluşturabilirsiniz.
 
