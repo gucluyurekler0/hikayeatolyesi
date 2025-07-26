@@ -15,7 +15,7 @@ class MainApp(QMainWindow):
         self.ui = Ui_MainWindow()
         self.ui.setupUi(self)
 
-        self.setWindowTitle("Hayal Gücü Defteri")
+        self.setWindowTitle("Hikaye Atölyesi")
 
         self.pages = []
         self.current_page_index = -1
