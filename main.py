@@ -8,7 +8,7 @@ import sys
 import os
 import cv2
 import numpy as np
-print("")
+
 class MainApp(QMainWindow):
     def __init__(self):
         super().__init__()
