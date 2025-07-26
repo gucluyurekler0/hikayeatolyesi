@@ -13,7 +13,7 @@ Hikaye Atölyesi, çizim yapabileceğiniz ve yazı yazabileceğiniz interaktif b
 
 ## Ekran Görüntüsü
 
-![Hikaye Atölyesi Ekran Görüntüsü](assets/screenshot.jpeg)
+![Hikaye Atölyesi Ekran Görüntüsü](assets/ekrangorntusu.png)
 
 ## Kurulum
 
