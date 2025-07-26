@@ -1,6 +1,6 @@
-# Hayal Gücü Defteri
+# Hikaye Atölyesi
 
-Hayal Gücü Defteri, çizim yapabileceğiniz ve yazı yazabileceğiniz interaktif bir masaüstü uygulamasıdır. Kullanıcılar birden fazla sayfa oluşturabilir, her sayfaya özel çizimler ve metinler ekleyebilir ve bu sayfaları `.png` olarak kaydedebilir. Ek olarak, tüm sayfalardan otomatik bir video slayt gösterisi (MP4) de oluşturabilirsiniz.
+Hikaye Atölyesi, çizim yapabileceğiniz ve yazı yazabileceğiniz interaktif bir masaüstü uygulamasıdır. Kullanıcılar birden fazla sayfa oluşturabilir, her sayfaya özel çizimler ve metinler ekleyebilir ve bu sayfaları `.png` olarak kaydedebilir. Ek olarak, tüm sayfalardan otomatik bir video slayt gösterisi (MP4) de oluşturabilirsiniz.
 
 ## Özellikler
 
@@ -13,7 +13,7 @@ Hayal Gücü Defteri, çizim yapabileceğiniz ve yazı yazabileceğiniz interakt
 
 ## Ekran Görüntüsü
 
-![Hayal Gücü Defteri Ekran Görüntüsü](assets/screenshot.jpeg)
+![Hikaye Atölyesi Ekran Görüntüsü](assets/screenshot.jpeg)
 
 ## Kurulum
 
